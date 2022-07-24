@@ -1,0 +1,10 @@
+{
+  "login_text": "login",
+  "game_title": "Type The Alphabet",
+  "game_head": "Typing game to see how fast you type. Timer starts when you do :)",
+  "game_timer": "Time: ",
+  "game_best_time": "my best time: ",
+  "game_success": "Success !",
+  "game_failure": "Failure !",
+  "reset_button": "Reset"
+}

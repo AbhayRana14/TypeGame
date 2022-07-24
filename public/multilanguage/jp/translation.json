@@ -1,0 +1,10 @@
+{
+  "login_text": "ログインする",
+  "game_title": "アルファベットを入力します",
+  "game_head": "ゲームを入力して、入力する速度を確認します。あなたがするときタイマーは始まります:)",
+  "game_timer": "時間：",
+  "game_best_time": "私の最高の時間：",
+  "game_success": "成功 ！",
+  "game_failure": "失敗 ！",
+  "reset_button": "リセット"
+}
